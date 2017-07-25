@@ -1,0 +1,13 @@
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/UnityEngine.dll
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/UnityEditor.dll
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/Mono.Cecil.dll
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/Unity.DataContract.dll
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/SammyD/Documents/GameDesigns/ChineseLearner/Temp/bin/Debug/Mono.Cecil.Mdb.dll

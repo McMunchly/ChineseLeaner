@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Assets/Scripts/PhraseBuilder.cs">
+    <Files>
+      <File FileName="Assets/_Assets/Scripts/PhraseBuilder.cs" Line="85" Column="1" />
+      <File FileName="Assets/_Assets/Scripts/FlashCardManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Assets/Scripts/HUDManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Assets/Scripts/Word.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Assets/Scripts/WordManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Assets/Scripts/ToneQuizManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Assets/Scripts/Painter.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Assets/Scripts/PaintBlot.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Assets/Scripts/PaintManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
